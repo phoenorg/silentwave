@@ -1,0 +1,43 @@
+# -------------------------------
+# Node / NPM / Cordova
+# -------------------------------
+node_modules/
+plugins/
+package-lock.json
+npm-debug.log*
+android/
+
+# -------------------------------
+# Cordova Platforms & Builds
+# -------------------------------
+platforms/
+builds/
+platforms/android/app/build/
+platforms/ios/build/
+
+# -------------------------------
+# Cordova Generated Files
+# -------------------------------
+*.keystore
+*.jks
+*.iml
+*.log
+*.bak
+*.swp
+*.swo
+*.json
+*.sh
+
+# -------------------------------
+# IDE / System files
+# -------------------------------
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+*.class
+
+# -------------------------------
+# Include only the web assets
+# -------------------------------
+!www/
