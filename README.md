@@ -5,4 +5,4 @@ SilentWave is an Android app that helps reduce tinnitus with carefully selected 
 
 ## Installation
 
-Download the APK from [here](https://phoen.org/silentwave) section or build the app from source.
+Download the APK from [here](https://www.phoen.org/silentwave) section or build the app from source.
